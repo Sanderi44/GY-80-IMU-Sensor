@@ -9,5 +9,5 @@ Simply clone this library to the arduino libraries folder:
 ```
 Restart Processing.  Then, include in your arduino sketch:
 ```
-	#include <GY-80-IMU-Sensor>
+	#include <GY80.h>
 ```
