@@ -4,6 +4,10 @@ This libary is in development and only has basic funtionality at the moment.  Th
 
 # Setup
 Simply clone this library to the arduino libraries folder:
-```	git clone https://github.com/Sanderi44/GY-80-IMU-Sensor.git```
+```
+	git clone https://github.com/Sanderi44/GY-80-IMU-Sensor.git
+```
 Restart Processing.  Then, include in your arduino sketch:
-```	#include <GY-80-IMU-Sensor>```
+```
+	#include <GY-80-IMU-Sensor>
+```
